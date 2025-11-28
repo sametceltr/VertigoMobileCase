@@ -5,7 +5,7 @@
 Link: https://drive.google.com/file/d/1Js1VhlWqF6Eqy1V1s5xLP81lyVPt9I0b/view?usp=sharing
 
 
-<video src="https://drive.google.com/file/d/1Js1VhlWqF6Eqy1V1s5xLP81lyVPt9I0b/view?usp=sharing" controls width="720" height="480"></video>
+<video src="Assets/demo_video_small.mp4" controls width="720" height="480"></video>
 
 ## Responsive UI Screenshots
 

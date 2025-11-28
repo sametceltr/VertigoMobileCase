@@ -1,10 +1,9 @@
 # Vertigo Mobile Case Study
 
-## Project Overview
+## Gameplay Demo Video
 
-A Unity mobile game featuring a spinning wheel, revive mechanic, and a responsive UI that adapts to various screen aspect ratios.
+Link: https://drive.google.com/file/d/1Js1VhlWqF6Eqy1V1s5xLP81lyVPt9I0b/view?usp=sharing
 
-## Gameplay Demo
 
 <video src="https://drive.google.com/file/d/1Js1VhlWqF6Eqy1V1s5xLP81lyVPt9I0b/view?usp=sharing" controls width="720" height="480"></video>
 
@@ -24,8 +23,3 @@ The UI automatically adjusts to maintain visual integrity across diverse mobile 
 
 <img width="1595" height="897" alt="16-9" src="https://github.com/user-attachments/assets/d37e3451-6073-46de-ac78-755c25db0a6c" />
 
-## Getting Started
-
-1.  **Clone the Repository:**
-    git clone <YOUR_REPOSITORY_URL>
-    2.  Open the project in **Unity Editor** (Version 2022.3.x LTS recommended).
